@@ -8,11 +8,12 @@
 #### 目前大陆能正常访问地址
 
 
-* [https://ssr-b.xyz](https://ssr-b.xyz)
+* [https://ssr-c.xyz](https://ssr-c.xyz)
 
 #### 目前大陆无法正常正常访问地址(需翻墙)
 * [https://fastssr.cc](https://fastssr.cc)
 * [https://ssr-a.xyz](https://ssr-a.xyz)
+* [https://ssr-b.xyz](https://ssr-b.xyz)
 
 ####有任何疑问请联系电报群组管理
 * 电报通知频道:[@FreeDoor_Channel](https://t.me/FreeDoor_Channel)
