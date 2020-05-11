@@ -16,5 +16,5 @@
 * [https://ssr-b.xyz](https://ssr-b.xyz)
 
 ####有任何疑问请联系电报群组管理
-* 电报通知频道:[@FreeDoor_Channel](https://t.me/FreeDoor_Channel)
-* 电报交流群组:[@FreeDoor_Group](https://t.me/FreeDoor_Group)
+* 电报通知频道：[@FreeDoor_Channel](https://t.me/FreeDoor_Channel)
+* 电报交流群组：[@FreeDoor_Group](https://t.me/FreeDoor_Group)
